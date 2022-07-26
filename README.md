@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou me dedicando **a análise de dados e elaboraçoes de dashboards**
 
-- 🌱 Estou aprendendo sobre **Python e Machine Learning**
+- 🌱 Estou me especializando sobre **Python e Machine Learning**
 
 - 💬 Me pergunte sobre **PowwerBi, Excel e Python**
 
