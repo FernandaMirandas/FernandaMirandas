@@ -5,7 +5,7 @@
 
 - 🌱 Estou me especializando em **Python e Machine Learning**
 
-- 💬 Me pergunte sobre **PowwerBi, Excel e Python**
+- 💬 Me pergunte sobre **PowerBi, Excel e Python**
 
 - 📫 e você me acha em **fe.miranda.rj@gmail.com**
 
